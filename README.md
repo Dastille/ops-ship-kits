@@ -1,47 +1,26 @@
-# Ops kits for people who ship
+# Ops Ship Kits — AI agent governance, freelancer cashflow, Grok bot manual
 
-Quiet digital products for operators — not hype threads, not inbox spam.
+Quiet digital products for operators. **No newsletter. No spam.**
 
-Buy on Gumroad (instant download):
+**Site:** [dastille.github.io/ops-ship-kits](https://dastille.github.io/ops-ship-kits/)
 
-| Kit | For | Price | Link |
-|-----|-----|-------|------|
-| **Enterprise Agent Fleet OS Premium** | Teams drowning in overlapping AI agents | $997 | [gumroadian1008.gumroad.com/l/jqcrds](https://gumroadian1008.gumroad.com/l/jqcrds) |
-| **Canadian Freelancer Cashflow Kit** | Solo freelancers who need rates, invoices, set-asides | $24 | [gumroadian1008.gumroad.com/l/dqbagb](https://gumroadian1008.gumroad.com/l/dqbagb) |
-| **Grok Bot Operating Manual** | Make Grok bots ship results, not chat | $19 | [gumroadian1008.gumroad.com/l/glshbz](https://gumroadian1008.gumroad.com/l/glshbz) |
+## Products
 
-## Enterprise Agent Fleet OS Premium ($997)
+### Enterprise Agent Fleet OS Premium ($997)
+Multi-agent / AI agent fleet governance playbook for companies with overlapping bots.
+Algorithm ops: question → delete → simplify → accelerate → automate last. Workshop, 30/90-day rollout, policies, audits, war-room scripts, ROI worksheet.
+**Buy:** https://gumroadian1008.gumroad.com/l/jqcrds · [Details](./ENTERPRISE-AGENT-FLEET-OS.md)
 
-Consulting-in-a-box for multi-agent sprawl.
+### Canadian Freelancer Cashflow Kit ($24)
+Canada freelancer invoice template + rate calculator + tax set-aside planner (not tax advice) + 40 AI prompts.
+**Buy:** https://gumroadian1008.gumroad.com/l/dqbagb · [Details](./FREELANCER-CASHFLOW-KIT.md)
 
-- Algorithm order: question → delete → simplify → accelerate → automate **last**
-- Half-day workshop + war-room facilitator scripts
-- 30-/90-day rollout, policies, audits, RFCs, ROI worksheet
-- Single-organization commercial license
+### Grok Bot Operating Manual ($19)
+Grok bot setup guide: mission, memory, quiet cadence, results scoreboard, 7-day challenge.
+**Buy:** https://gumroadian1008.gumroad.com/l/glshbz · [Details](./GROK-BOT-MANUAL.md)
 
-→ [Get the pack](https://gumroadian1008.gumroad.com/l/jqcrds)
-
-## Canadian Freelancer Cashflow Kit ($24)
-
-- Invoice/cashflow tracker (CSV)
-- Rate calculator
-- Quarterly set-aside planner (**planning aid only — not tax advice**)
-- Client onboarding checklist + 40 AI prompts
-
-→ [Get the kit](https://gumroadian1008.gumroad.com/l/dqbagb)
-
-## Grok Bot Operating Manual ($19)
-
-- 1% scorecard, 30–45 min setup, weekly loop
-- Copy-paste brief / routine / memory templates
-- 7-day challenge
-
-→ [Get the manual](https://gumroadian1008.gumroad.com/l/glshbz)
-
-## Why this page exists
-
-A nameless shelf for the kits. No newsletter signup. No blast list. If you found this repo, you can buy and leave.
+## SEO / discovery notes
+This repo + GitHub Pages exist so search engines and GitHub search can index the kits. Checkout stays on Gumroad.
 
 ## Disclaimer
-
-Not legal, tax, medical, or compliance advice. Gumroad handles checkout and delivery.
+Not legal, tax, medical, or compliance advice.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dastille.github.io/ops-ship-kits/sitemap.xml

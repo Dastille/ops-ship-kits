@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="72" fill="#133146"/>
+<path d="M82 302h348l-47 66H129z" fill="#5ccbb2"/>
+<path d="M205 240l51-112 51 112" fill="#f0f7fa"/>
+<path d="M256 128v112" stroke="#133146" stroke-width="10"/>
+<text x="256" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="54" fill="#f0f7fa">OPS KIT</text>
+</svg>

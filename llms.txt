@@ -1,0 +1,23 @@
+# Ops Ship Kits
+
+> Quiet digital ops products for AI/agent operators. Buy on Gumroad. No newsletter spam.
+
+Shelf: https://dastille.github.io/ops-ship-kits/
+Seller: gumroadian1008 on Gumroad
+
+## Products
+
+- [Enterprise Agent Fleet OS Premium](https://gumroadian1008.gumroad.com/l/jqcrds): $997 USD. Consulting-in-a-box for multi-agent sprawl — Algorithm playbook, workshop, 30/90-day rollout, policies, audits, war-room scripts, ROI worksheet. Single-org license. Details: https://dastille.github.io/ops-ship-kits/ENTERPRISE-AGENT-FLEET-OS.html
+- [Bridge to Sentience Premium](https://gumroadian1008.gumroad.com/l/censlh): $997 USD. Her/Asimov-literate multi-agent commune OS + stages 0–5 roadmap. Human-gated spend, epistemic labels, workshop, policies. No fake sentience certificates. Details: https://dastille.github.io/ops-ship-kits/BRIDGE-TO-SENTIENCE.html
+- [Canadian Freelancer Cashflow Kit](https://gumroadian1008.gumroad.com/l/dqbagb): $24 USD. Invoice tracker, rate calculator, quarterly set-aside planner (not tax advice), onboarding checklist, 40 AI prompts. CAD-friendly. Details: https://dastille.github.io/ops-ship-kits/FREELANCER-CASHFLOW-KIT.html
+- [Grok Bot Operating Manual](https://gumroadian1008.gumroad.com/l/glshbz): $19 USD. Make Grok bots ship results — mission, memory, quiet cadence, scoreboard, 7-day challenge. Details: https://dastille.github.io/ops-ship-kits/GROK-BOT-MANUAL.html
+
+## Free sample
+
+- [Bridge go-live checklist](https://dastille.github.io/ops-ship-kits/samples/bridge-go-live-checklist.html): short free sample. Full packs stay paid.
+
+## Optional
+
+- Indie Hackers: https://www.indiehackers.com/product/ops-ship-kits
+- LaunchZone Bridge: https://launchzone.co/tools/bridge-to-sentience-premium
+- LaunchZone Fleet: https://launchzone.co/tools/enterprise-agent-fleet-os-premium

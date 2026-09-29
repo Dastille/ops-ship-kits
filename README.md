@@ -14,7 +14,7 @@ Grok bot setup guide: mission, memory, quiet cadence, results scoreboard, 7-day 
 
 ### Canadian Freelancer Cashflow Kit ($24)
 Canada freelancer invoice template + rate calculator + tax set-aside planner (not tax advice) + 40 AI prompts.
-**Buy:** https://gumroadian1008.gumroad.com/l/dqbagb · [Details](./FREELANCER-CASHFLOW-KIT.md)
+**Buy:** https://gumroadian1008.gumroad.com/l/dqbagb · [Details](./FREELANCER-CASHFLOW-KIT.md) · [Free sample](./samples/freelancer-5-prompts.html)
 
 ### Enterprise Agent Fleet OS Premium ($997)
 Multi-agent / AI agent fleet governance playbook for companies with overlapping bots.

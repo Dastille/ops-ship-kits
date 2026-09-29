@@ -15,6 +15,7 @@ Seller: gumroadian1008 on Gumroad
 ## Free samples
 
 - [Grok Bot 1% test scorecard](https://dastille.github.io/ops-ship-kits/samples/grok-bot-1pct-scorecard.html): short free teaser for the $19 Manual. Full packs stay paid.
+- [Freelancer 5 AI prompts](https://dastille.github.io/ops-ship-kits/samples/freelancer-5-prompts.html): short free teaser for the $24 Freelancer kit. Full packs stay paid.
 - [Bridge go-live checklist](https://dastille.github.io/ops-ship-kits/samples/bridge-go-live-checklist.html): short free sample. Full packs stay paid.
 
 ## Optional

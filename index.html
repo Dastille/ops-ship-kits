@@ -25,6 +25,16 @@
     a { color: #0b57d0; }
     .card { border: 1px solid #8884; border-radius: 12px; padding: 1rem 1.1rem; margin: 1rem 0; }
     .price { font-weight: 700; }
+    .path { background: #0b57d012; border-color: #0b57d055; }
+    .path ol { margin: .5rem 0 0; padding-left: 1.2rem; }
+    .path li { margin: .35rem 0; }
+    .buy {
+      display: inline-block; margin-top: .55rem; padding: .45rem .85rem;
+      background: #0b57d0; color: #fff !important; text-decoration: none;
+      border-radius: 8px; font-weight: 600;
+    }
+    .buy:hover { filter: brightness(1.08); }
+    .buy-secondary { background: transparent; color: #0b57d0 !important; border: 1px solid #0b57d0; margin-left: .35rem; }
     footer { margin-top: 2.5rem; font-size: .9rem; opacity: .8; }
   </style>
 
@@ -139,7 +149,7 @@
       "name": "Is there a free sample?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Free teasers: Grok Bot 1% test scorecard ($19 Manual), Freelancer 5 AI prompts ($24 kit), and Bridge go-live checklist. Full packs stay paid on Gumroad."
+        "text": "Yes. Free teasers map to paid kits: Grok Bot 1% scorecard → $19 Manual, Freelancer 5 AI prompts → $24 kit, Bridge go-live checklist → $997. Try free then buy on Gumroad; full packs stay paid."
       }
     },
     {
@@ -158,22 +168,38 @@
   <header>
     <h1>Ops Ship Kits</h1>
     <p>Quiet digital products for operators. No email blast. Buy → download.</p>
-    <p><strong>First dollar path:</strong> start with the <a href="#grok-bot-manual">$19 Grok Manual</a> or <a href="#freelancer-cashflow-kit">$24 Freelancer Kit</a>. Free teasers below.</p>
+    <p><strong>First dollar path:</strong> try a <a href="#try-free">free sample</a>, then buy the <a href="#grok-bot-manual">$19 Grok Manual</a> or <a href="#freelancer-cashflow-kit">$24 Freelancer Kit</a>.</p>
   </header>
 
   <main>
+    <section class="card path" id="try-free" aria-labelledby="try-free-heading">
+      <h2 id="try-free-heading">Try free → then buy</h2>
+      <p>No email. No signup. Read a teaser, then checkout on Gumroad if it fits.</p>
+      <ol>
+        <li><a href="./samples/grok-bot-1pct-scorecard.html">Grok Bot 1% scorecard</a> → <a href="https://gumroadian1008.gumroad.com/l/glshbz"><strong>Buy Manual $19</strong></a></li>
+        <li><a href="./samples/freelancer-5-prompts.html">Freelancer 5 AI prompts</a> → <a href="https://gumroadian1008.gumroad.com/l/dqbagb"><strong>Buy Freelancer Kit $24</strong></a></li>
+        <li><a href="./samples/bridge-go-live-checklist.html">Bridge go-live checklist</a> → <a href="https://gumroadian1008.gumroad.com/l/censlh"><strong>Buy Bridge $997</strong></a></li>
+      </ol>
+      <p>
+        <a class="buy" href="https://gumroadian1008.gumroad.com/l/glshbz">Buy Manual $19 →</a>
+        <a class="buy buy-secondary" href="https://gumroadian1008.gumroad.com/l/dqbagb">Buy Freelancer $24 →</a>
+      </p>
+    </section>
+
     <article class="card" id="grok-bot-manual">
       <h2>Grok Bot Operating Manual</h2>
       <p class="price">$19 USD</p>
       <p>Make Grok bots ship results: mission, memory, quiet cadence, scoreboard, 7-day challenge.</p>
-      <p><a href="https://gumroadian1008.gumroad.com/l/glshbz">Buy on Gumroad</a> · <a href="./GROK-BOT-MANUAL.html">Details</a> · <a href="./samples/grok-bot-1pct-scorecard.html">Free sample</a></p>
+      <p><a class="buy" href="https://gumroadian1008.gumroad.com/l/glshbz">Buy on Gumroad $19 →</a></p>
+      <p><a href="./samples/grok-bot-1pct-scorecard.html">Free sample</a> · <a href="./GROK-BOT-MANUAL.html">Details</a></p>
     </article>
 
     <article class="card" id="freelancer-cashflow-kit">
       <h2>Canadian Freelancer Cashflow Kit</h2>
       <p class="price">$24 USD</p>
       <p>Invoice tracker, rate calculator, quarterly set-aside planner (not tax advice), onboarding checklist, 40 AI prompts. CAD-friendly.</p>
-      <p><a href="https://gumroadian1008.gumroad.com/l/dqbagb">Buy on Gumroad</a> · <a href="./FREELANCER-CASHFLOW-KIT.html">Details</a> · <a href="./samples/freelancer-5-prompts.html">Free sample</a></p>
+      <p><a class="buy" href="https://gumroadian1008.gumroad.com/l/dqbagb">Buy on Gumroad $24 →</a></p>
+      <p><a href="./samples/freelancer-5-prompts.html">Free sample</a> · <a href="./FREELANCER-CASHFLOW-KIT.html">Details</a></p>
     </article>
 
     <article class="card" id="enterprise-agent-fleet-os">
@@ -197,7 +223,7 @@
     <h3>Where do I buy?</h3>
     <p>Use the Buy on Gumroad links above (seller gumroadian1008). Instant download.</p>
     <h3>Is there a free sample?</h3>
-    <p>Yes — <a href="./samples/grok-bot-1pct-scorecard.html">Grok Bot 1% test scorecard</a>, <a href="./samples/freelancer-5-prompts.html">Freelancer 5 AI prompts</a>, and the <a href="./samples/bridge-go-live-checklist.html">Bridge go-live checklist</a>. Full packs stay paid.</p>
+    <p>Yes — start at <a href="#try-free">Try free → then buy</a>: <a href="./samples/grok-bot-1pct-scorecard.html">Grok Bot 1% scorecard</a> → $19 Manual, <a href="./samples/freelancer-5-prompts.html">Freelancer 5 prompts</a> → $24 kit, <a href="./samples/bridge-go-live-checklist.html">Bridge go-live checklist</a> → $997. Full packs stay paid.</p>
     <h3>Is this tax or legal advice?</h3>
     <p>No. The Freelancer kit is a planning aid only.</p>
   </section>

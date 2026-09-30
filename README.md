@@ -4,7 +4,7 @@ Quiet digital products for operators. **No newsletter. No spam.**
 
 **Site:** [dastille.github.io/ops-ship-kits](https://dastille.github.io/ops-ship-kits/)
 
-**First dollar path:** [$19 Grok Manual](https://gumroadian1008.gumroad.com/l/glshbz) · [$24 Freelancer Kit](https://gumroadian1008.gumroad.com/l/dqbagb)
+**First dollar path:** try free → then buy — [$19 Grok Manual](https://gumroadian1008.gumroad.com/l/glshbz) · [$24 Freelancer Kit](https://gumroadian1008.gumroad.com/l/dqbagb). Shelf CTA: [Try free → then buy](https://dastille.github.io/ops-ship-kits/#try-free).
 
 ## Products
 

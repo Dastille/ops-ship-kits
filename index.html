@@ -36,6 +36,13 @@
     .buy:hover { filter: brightness(1.08); }
     .buy-secondary { background: transparent; color: #0b57d0 !important; border: 1px solid #0b57d0; margin-left: .35rem; }
     footer { margin-top: 2.5rem; font-size: .9rem; opacity: .8; }
+    .chooser { background: #1111; border-color: #8886; }
+    .chooser ul { list-style: none; padding: 0; margin: .6rem 0 0; }
+    .chooser li { margin: .55rem 0; padding: .65rem .75rem; border: 1px solid #8884; border-radius: 10px; }
+    .chooser li.default { border-color: #0b57d0; background: #0b57d012; }
+    .chooser .tag { display: inline-block; font-size: .75rem; font-weight: 700; letter-spacing: .02em;
+      text-transform: uppercase; color: #0b57d0; margin-bottom: .2rem; }
+    .anchor { font-size: .9rem; opacity: .85; margin: .15rem 0 .35rem; }
   </style>
 
   <script type="application/ld+json">
@@ -168,7 +175,7 @@
   <header>
     <h1>Ops Ship Kits</h1>
     <p>Quiet digital products for operators. No email blast. Buy → download.</p>
-    <p><strong>First dollar path:</strong> try a <a href="#try-free">free sample</a>, then buy the <a href="#grok-bot-manual">$19 Grok Manual</a> or <a href="#freelancer-cashflow-kit">$24 Freelancer Kit</a>.</p>
+    <p><strong>First dollar path:</strong> <a href="#which-kit">Which kit?</a> → try a <a href="#try-free">free sample</a> → buy the <a href="#grok-bot-manual">$19 Grok Manual</a> (default) or <a href="#freelancer-cashflow-kit">$24 Freelancer Kit</a>.</p>
   </header>
 
   <main>
@@ -187,12 +194,46 @@
       </p>
     </section>
 
+
+    <section class="card chooser" id="which-kit" aria-labelledby="which-kit-heading">
+      <h2 id="which-kit-heading">Which kit?</h2>
+      <p>Four products. One first dollar. Pick the job — if unsure, start with the Manual.</p>
+      <ul>
+        <li class="default">
+          <span class="tag">Start here · most buyers</span>
+          <strong>I want my Grok bots to ship results</strong>
+          <p class="anchor">Less than 2% of a $997 pack. Setup in under an hour.</p>
+          <a class="buy" href="https://gumroadian1008.gumroad.com/l/glshbz">Buy Manual $19 →</a>
+          <a class="buy buy-secondary" href="./samples/grok-bot-1pct-scorecard.html">Free scorecard</a>
+        </li>
+        <li>
+          <strong>I freelance in Canada and need rates / invoices / prompts</strong>
+          <p class="anchor">Cashflow toolkit — not tax advice.</p>
+          <a class="buy" href="https://gumroadian1008.gumroad.com/l/dqbagb">Buy Freelancer $24 →</a>
+          <a class="buy buy-secondary" href="./samples/freelancer-5-prompts.html">Free 5 prompts</a>
+        </li>
+        <li>
+          <strong>I run multi-agent sprawl and need a war-room OS</strong>
+          <p class="anchor">Consulting-in-a-box. Or try the free delete-pass first.</p>
+          <a class="buy" href="https://gumroadian1008.gumroad.com/l/jqcrds">Buy Fleet OS $997 →</a>
+          <a class="buy buy-secondary" href="./samples/fleet-delete-pass.html">Free delete pass</a>
+        </li>
+        <li>
+          <strong>I want a human-gated multi-agent commune roadmap</strong>
+          <p class="anchor">Her/Asimov-literate OS — no fake sentience certs.</p>
+          <a class="buy" href="https://gumroadian1008.gumroad.com/l/censlh">Buy Bridge $997 →</a>
+          <a class="buy buy-secondary" href="./samples/bridge-go-live-checklist.html">Free checklist</a>
+        </li>
+      </ul>
+      <p style="margin-top:.85rem;font-size:.9rem"><strong>Unsure?</strong> Buy the <a href="https://gumroadian1008.gumroad.com/l/glshbz">$19 Manual</a> — cheapest path to a shipped result.</p>
+    </section>
+
     <article class="card" id="grok-bot-manual">
       <h2>Grok Bot Operating Manual</h2>
-      <p class="price">$19 USD</p>
+      <p class="price">$19 USD <span style="font-weight:500;opacity:.75;font-size:.9rem">· first-dollar default · &lt;2% of $997 packs</span></p>
       <p>Make Grok bots ship results: mission, memory, quiet cadence, scoreboard, 7-day challenge.</p>
       <p><a class="buy" href="https://gumroadian1008.gumroad.com/l/glshbz">Buy on Gumroad $19 →</a></p>
-      <p><a href="./samples/grok-bot-1pct-scorecard.html">Free sample</a> · <a href="./GROK-BOT-MANUAL.html">Details</a></p>
+      <p><a href="./samples/grok-bot-1pct-scorecard.html">Free sample</a> · <a href="./GROK-BOT-MANUAL.html">Details</a> · <a href="#which-kit">Which kit?</a></p>
     </article>
 
     <article class="card" id="freelancer-cashflow-kit">
